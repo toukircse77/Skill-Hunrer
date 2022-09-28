@@ -1,0 +1,45 @@
+[
+   {
+    "id":1,
+    "title": "Passing and receiving.",
+    "Time required ": 220,
+    "ratings": 4,
+    "img": "https://cdn.sportmob.com/resource/news/20201224_927847/item_9_1222.jpg?cache=1608830801"
+   },
+   {
+    "id":2,
+    "title": "Shooting.",
+    "Time required ": 320,
+    "ratings": 6,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnh3K6OieG8TU4zV7e8YPWbqQMgwyEgZEVvw&usqp=CAU"
+   },
+   {
+    "id":3,
+    "title": "Dribbling.",
+    "Time required ": 370,
+    "ratings": 7,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6tlWUi3PTQ2j6---9TncoWG78Oc4p-syTg&usqp=CAU"
+   },
+   {
+    "id":4,
+    "title": "Heading.",
+    "Time required ": 420,
+    "ratings": 4,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbOSnX-6zO1FGd1etj4vgp5J12-TVahfX5w&usqp=CAU"
+   },
+   {
+    "id":5,
+    "title": "Touch and ball control.",
+    "Time required ": 270,
+    "ratings":6,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkfPiE1y5JY2tr2zMKDot-t8wsjq31WgpVrA&usqp=CAU"
+   },
+   {
+    "id":6,
+    "title": "Running off the ball",
+    "Time required ": 330,
+    "ratings": 5,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHFKpP69VZPi3m6jYhdnrF8vH0oviX6OHyQw&usqp=CAU"
+   }
+    
+]
