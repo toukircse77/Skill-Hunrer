@@ -14,7 +14,7 @@ const Main = () => {
             <div className='body-container'>
                  <div>
                  <Header></Header>
-                 <h3>Select Today's Best Skills</h3>
+                 <h1>Select Today's Best Skills</h1>
                  <Cart btnOnClickHandler={btnOnClickHandler} ></Cart>
                  </div>
                  <div className='Skill-info'>
