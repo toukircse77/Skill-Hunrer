@@ -1,10 +1,9 @@
-h3 {
-    text-align: center;
-}
+
 .body-container {
     display: grid;
     grid-template-columns: 4fr 1fr;
     position: relative;
+    text-align: center;
 }
 .Skill-info{
     background-color: rgb(150, 227, 247);
