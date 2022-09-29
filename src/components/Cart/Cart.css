@@ -1,5 +1,5 @@
-.Cart{
-    position: sticky;
-    top: 0;
-    padding: 30px 25px;
+.cart-container{
+    background-color: rgb(149, 204, 250);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
