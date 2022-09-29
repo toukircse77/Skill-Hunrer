@@ -2,4 +2,5 @@
     background-color: rgb(149, 204, 250);
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 10px;
 }

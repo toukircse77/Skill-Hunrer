@@ -6,3 +6,6 @@ h3 {
     grid-template-columns: 4fr 1fr;
     position: relative;
 }
+.Skill-info{
+    background-color: rgb(150, 227, 247);
+}

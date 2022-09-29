@@ -1,6 +1,7 @@
 import React from 'react';
 import Cart from '../Cart/Cart';
 import Header from '../Header/Header';
+import SideBar from '../SideBar/SideBar';
 import './Main.css'
 
 const Main = () => {
@@ -13,7 +14,7 @@ const Main = () => {
                  <Cart></Cart>
                  </div>
                  <div className='Skill-info'>
-                    <h2>mui Info</h2>
+                <SideBar></SideBar>
 
                  </div>
             </div>
