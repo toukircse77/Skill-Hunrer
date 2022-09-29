@@ -4,3 +4,13 @@
     grid-template-columns: 1fr 1fr 1fr;
     margin-top: 10px;
 }
+@media only screen  and (max-width: 768px) {
+    .cart-container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media only screen  and (max-width: 576px) {
+    .cart-container {
+        grid-template-columns: 1fr;
+    }
+}

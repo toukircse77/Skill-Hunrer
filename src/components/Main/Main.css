@@ -8,3 +8,8 @@
 .Skill-info{
     background-color: rgb(150, 227, 247);
 }
+@media only screen and (max-width: 768px) {
+    .body-container {
+        grid-template-columns: 1fr;
+    }
+}
