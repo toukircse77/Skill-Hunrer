@@ -3,9 +3,21 @@
     color: rgb(206, 240, 237);
     background-color:#1839cc;
     display:flex;
-    justify-content: start;
+    justify-content:space-between;
     align-items: center;
     padding-left: 112px;
     padding-right: 112px;
     gap: 10px;
+}
+.title{
+    display: flex;
+    align-items:center;
+    gap: 10px;
+}
+.blog h1 a{
+    color:gold;
+    text-decoration: none;
+}
+.blog h1 a:hover{
+    color:tomato;
 }

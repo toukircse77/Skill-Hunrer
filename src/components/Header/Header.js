@@ -6,8 +6,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 const Header = () => {
     return (
         <nav className='header'>
-            <FontAwesomeIcon icon={faFootballBall} />
-            <h1>Best football Skills</h1>
+            <div className='title'><FontAwesomeIcon icon={faFootballBall} />
+            <h1>Best football Skills</h1></div>
+            <div className='blog'>
+                <h1><a href="/">Blog</a></h1>
+            </div>
+            
         </nav>
     );
 };
