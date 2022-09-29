@@ -1,9 +1,13 @@
 import React from 'react';
+import Break from '../Break/Break';
+import Profile from '../Profile/Profile';
 
 const SideBar = () => {
     return (
         <div>
-            <h1>ure giye sor ga</h1>
+            <Profile></Profile>
+            <h3>Add A Break</h3>
+            <Break></Break>
         </div>
     );
 };

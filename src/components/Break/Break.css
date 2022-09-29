@@ -1,0 +1,14 @@
+.break{
+    background-color: rgb(93, 208, 253);
+    padding: 10px;
+    border-radius: 10px;
+}
+.break button{
+   padding: 10px;
+   margin:0px 5px;
+   border-radius: 50%;
+   border: none;
+}
+.break button:hover{
+    background-color:rgb(78, 80, 223);
+}
