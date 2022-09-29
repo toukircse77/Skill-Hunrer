@@ -1,13 +1,13 @@
 import React from 'react';
 import './Break.css'
 
-const Break = () => {
+const Break = ({ onClickBreakHandler }) => {
     return (
         <div className='break'>
-            <button>10s</button>
-            <button >20s</button>
-            <button >30s</button>
-            <button >40s</button>
+            <button onClick={() => onClickBreakHandler(10)} >10s</button>
+            <button onClick={() => onClickBreakHandler(20)}>20s</button>
+            <button onClick={() => onClickBreakHandler(30)} >30s</button>
+            <button onClick={() => onClickBreakHandler(40)} >40s</button>
         </div>
     );
 };

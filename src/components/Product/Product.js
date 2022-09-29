@@ -8,7 +8,7 @@ const Product = ({cart,btnOnClickHandler}) => {
             <img src={url} alt="" />
             <div className='cart-info'>
                 <h2>Skill: {title}</h2>
-                <p>Duration: {time}</p>
+                <p>Duration: {time} sec</p>
                 <p>ratings: {ratings}</p>
             </div>
             <button

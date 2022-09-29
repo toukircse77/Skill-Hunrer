@@ -9,7 +9,6 @@ const Cart = ({ btnOnClickHandler }) => {
         fetch('data.json')
         .then(res => res.json())
         .then(data => setCarts(data))
-        // console.log(carts)
     },[])
     return (
         <div className='cart-container'>
